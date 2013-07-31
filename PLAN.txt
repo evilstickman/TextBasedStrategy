@@ -1,0 +1,112 @@
+OVERVIEW
+--------
+
+Text-based strategy is a simple turn-based strategy game rendered in the
+console as ASCII characters. This is the immediate precursor to the
+CombatCubes engine, which will be integrated once all gameplay is
+completed.
+
+PURPOSE
+-------
+
+Ultimately I usually want to make a game, but end up building an engine
+instead. This deliberately low-tech approach has been selected to remove
+the allure of pretty graphics and force me to work on gameplay,
+recognizing the graphics can be added on to a good game more easily than
+a bad game can be fixed to match pretty graphics.
+
+GAME FIELD
+----------
+
+At first, the game will be entirely rendered on an 80x120 ASCII text
+field. The middle 80x80 square will be the playing field, with the
+remaining 40 characters serving as a menu and status area on the left.
+
+GAME PLAY - SINGLE PLAYER
+-------------------------
+
+Single-player gameplay will flow similar to other turn-based strategy
+games. There are two players to a game, one controlled by a human and
+one controlled by a computer.  Each player's unit will receive an 
+initiative value, and the order of play for a turn will take place in 
+decreasing order of initiative value. A unit moves across the field of
+play with a set number of action points. These action points are
+deducted for each action performed by a unit, be it simple movement
+across terrain or attacking the enemy. The first player to meet the
+victory conditions of the current battle wins.
+
+Gameplay is balanced through the use of a point-value system. Each unit
+has a calculated point value, and each battle has a maximum total army
+value. Player armies are built out of available units until the maximum
+total is reached (it cannot be exceeded). This total can be weighted to
+one side or the other to increase or decrease battle difficulty.
+
+Maps for single-player battles are either pre-set (scenario mode), or
+selected by the player (free play mode), or determined by preconditions
+(campaign mode). They can also be designed through the use of a level
+designer.
+
+GAME PLAY - MULTIPLAYER
+-----------------------
+
+Multiplayer gameplay is similar to single-player in the sense that the
+two players take turns according to initiative rolls. The primary
+difference (aside from the extra human) is that maps are built
+communally, and that point values for the battles are agreed upon before
+the match begins.
+
+UNITS
+-----
+
+Units are comprised of several attributes:
+
+- attack Power (P)
+- Damage capacity (D)
+- Action points (A)
+
+These values are used to determine a unit's worth in the following way:
+
+unit_worth = A(P+D)
+
+The purpose for this is to assert that more action points makes a unit
+more effective. For example, a unit with PDA of (1,1,1) will only act
+half as many times as a unit with PDA of (1,1,2), meaning the second
+unit is ostensibly twice as powerful.
+
+Combat between units is extremely basic. When unit A attacks unit B,
+unit A's P is subtracted directly from unit B's D. Once unit B's D is
+zero or lower, unit B is destroyed. If unit B survives, their reduced D
+value is maintained until healed or the unit is defeated in combat. If
+unit B survives the attack of unit A, combat ends.
+
+SCREEN FLOW
+-----------
+
+- Game initializes to title screen
+  - Campaign mode
+    - Start starts a new scripted series of battles
+    - Continue continues an in-progress series of battles
+  - Scenario mode
+    - Select a scenario to play
+    - Continue a scenario battle in progress
+  - Free play mode
+    - Select number of human players
+    - Select point size for battle
+    - Select map for battle
+    - Start battle
+- Battle screen
+  - in campaign and scenario mode
+    - plays introduction video/interaction
+    - plays game
+    - plays conclusion video/interaction
+  - in freeplay mode
+    - plays game
+    - displays victory screen
+
+FUTURE FEATURE LIST
+-------------------
+
+- Level design suite
+- Unit design suite
+- Units of different sizes (2x2, 3x3, etc)
+- Networked multiplayer
