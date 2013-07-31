@@ -1,0 +1,37 @@
+TODO
+----
+
+- Build out simple console app
+- Determine method to write out character to specific location on
+  standard out
+  - Ensure it is cross-compatible (add windows comment and code, or
+  	linux/osx comment and code)
+- Fill the screen with dots
+- Determine method to write out colored character to specific location
+  on standard out
+  - ensure it is cross-compatible (add windows comment and code, or
+  	linux/osx comment and code)
+- Build a self-drawing object that can output its own color and symbol
+  at its current location
+- Build a map-class composed of self-drawing objects
+- Add object types
+  - units, to represent player units
+  - terrain, to represent terrain objects
+  - allow for expansion
+- Add movement handlers
+  - units that move onto other units initiate battle
+  - units that move onto terrain have their action points reduced
+- Add different terrain types and test movement
+  - water
+  - grass
+  - forest
+  - mountain
+  - road
+- Add unit combat rules
+  - make unit combat permanent
+  - add unit destruction
+- Add movement order
+- Add initiative system to determine movement order
+- Add different sides for units (friendly/enemy)
+- Add victory/defeat detection
+- Add distinctive player objects
