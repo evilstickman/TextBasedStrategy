@@ -1,10 +1,10 @@
 TODO
 ----
 
-- Build out simple console app
-- Determine method to write out character to specific location on
+DONE - Build out simple console app
+DONE - Determine method to write out character to specific location on
   standard out
-  - Ensure it is cross-compatible (add windows comment and code, or
+  WON'T BE - WILL NEED TO REWRITE - Ensure it is cross-compatible (add windows comment and code, or
   	linux/osx comment and code)
 - Fill the screen with dots
 - Determine method to write out colored character to specific location
