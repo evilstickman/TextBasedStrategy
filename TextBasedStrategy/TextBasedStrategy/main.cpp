@@ -7,12 +7,13 @@
 //
 
 #include <iostream>
+#include "ansi_escape_sequences.h"
 
 int main(int argc, const char * argv[])
 {
 
     // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << ANSI_CLEAR_SCREEN<< ANSI_MOVE_TO_1_1 << ANSI_ESCAPE_YELLOW << "Hello, World!" << ANSI_ESCAPE_RESET << "\n";
     return 0;
 }
 

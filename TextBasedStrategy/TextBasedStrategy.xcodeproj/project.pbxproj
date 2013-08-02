@@ -25,10 +25,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		EE252A8417A9B236007EAAA5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		EE252A8917A9B2B2007EAAA5 /* TextBasedStrategy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TextBasedStrategy; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE252A8C17A9B2B2007EAAA5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		EE252A8E17A9B2B2007EAAA5 /* TextBasedStrategy.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = TextBasedStrategy.1; sourceTree = "<group>"; };
+		EE252A9317AC2E4F007EAAA5 /* ansi_escape_sequences.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ansi_escape_sequences.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,7 +45,6 @@
 		EE252A7D17A9B20F007EAAA5 = {
 			isa = PBXGroup;
 			children = (
-				EE252A8417A9B236007EAAA5 /* main.cpp */,
 				EE252A8B17A9B2B2007EAAA5 /* TextBasedStrategy */,
 				EE252A8A17A9B2B2007EAAA5 /* Products */,
 			);
@@ -64,6 +63,7 @@
 			children = (
 				EE252A8C17A9B2B2007EAAA5 /* main.cpp */,
 				EE252A8E17A9B2B2007EAAA5 /* TextBasedStrategy.1 */,
+				EE252A9317AC2E4F007EAAA5 /* ansi_escape_sequences.h */,
 			);
 			path = TextBasedStrategy;
 			sourceTree = "<group>";
@@ -217,6 +217,7 @@
 				EE252A9217A9B2B2007EAAA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
