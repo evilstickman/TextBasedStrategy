@@ -1,0 +1,361 @@
+TTextBasedStrategy
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp
+cAnalyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp
+cAnalyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp
+cCompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/TextBasedStrategy normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c00000000528D225300000000000004B3
+t1384981075
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000528D225300000000000001DE
+t1384981075
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c00000000528D2256000000000000654C
+t1384981078
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libc++.dylib
+c00000000528D22560000000000064CE0
+t1384981078
+s412896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c00000000528D22560000000000004528
+t1384981078
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000528D2256000000000000EDB8
+t1384981078
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000528D2256000000000000984C
+t1384981078
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c00000000528D22560000000000004FEC
+t1384981078
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c00000000528D22560000000000009F64
+t1384981078
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c00000000528D225600000000000031D0
+t1384981078
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c00000000528D225600000000000052E4
+t1384981078
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c00000000528D22560000000000002D34
+t1384981078
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c00000000528D225600000000000084E8
+t1384981078
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c00000000528D22560000000000004FF4
+t1384981078
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c00000000528D225600000000000047A4
+t1384981078
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c00000000528D22560000000000004364
+t1384981078
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000528D22560000000000002EF0
+t1384981078
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c00000000528D22560000000000046BB8
+t1384981078
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000528D225600000000000067BC
+t1384981078
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c00000000528D2256000000000001AD9C
+t1384981078
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000528D22560000000000016C74
+t1384981078
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c00000000528D2256000000000000F204
+t1384981078
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c00000000528D22560000000000008EC8
+t1384981078
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000528D22560000000000008B14
+t1384981078
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000528D225600000000000047C0
+t1384981078
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c00000000528D225600000000000044D8
+t1384981078
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c00000000528D225600000000000067AC
+t1384981078
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c00000000528D22560000000000011E4C
+t1384981078
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c00000000528D22560000000000001750
+t1384981078
+s5968
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.o
+t1386180306
+s73096
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/TextBasedStrategy.LinkFileList
+c00000000529F6E4B00000000000001E5
+t1386180171
+s485
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.o
+t1386180306
+s73656
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.o
+t1386180817
+s145004
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/StaticAnalyzer/TextBasedStrategy/TextBasedStrategy/normal/x86_64/MovingObject.plist
+t1386180183
+s382
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/StaticAnalyzer/TextBasedStrategy/TextBasedStrategy/normal/x86_64/VisibleObject.plist
+t1386180172
+s382
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/StaticAnalyzer/TextBasedStrategy/TextBasedStrategy/normal/x86_64/main.plist
+t1386180741
+s382
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/TextBasedStrategy
+t1386180741
+s32316
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp
+c00000000529F6DF000000000000000F8
+t1386180080
+s248
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.h
+c00000000529F6E6000000000000001AB
+t1386180192
+s427
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp
+c000000005200241B0000000000000160
+t1375740955
+s352
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.h
+c00000000529F6ED200000000000001C3
+t1386180306
+s451
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/ansi_escape_sequences.h
+c0000000051FBF8C70000000000000164
+t1375467719
+s356
+
+N/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp
+c00000000529F70D0000000000000059A
+t1386180816
+s1434
+i<iostream>
+i"ansi_escape_sequences.h"
+
+CAnalyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp
+s407872983.363034
+e407872983.932305
+r1
+xAnalyze
+x/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Analyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp42"Analyze TextBasedStrategy/MovingObject.cpp69025dd7a54fb841^32aceed7a54fb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp0000000000000000^3435"Analyze TextBasedStrategy/MovingObject.cpp    cd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-generated-files.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-own-target-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-all-target-headers.hmap -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-project-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources/x86_64 -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources -F/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug --analyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp -o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/StaticAnalyzer/TextBasedStrategy/TextBasedStrategy/normal/x86_64/MovingObject.plist36"53AE3F54-4DC2-438B-9768-5558EE283E6B-
+b97E8C8BC-B108-4893-B6A2-4094C385D7A9
+
+CAnalyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp
+s407872971.432766
+e407872972.310704
+r1
+xAnalyze
+x/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Analyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp43"Analyze TextBasedStrategy/VisibleObject.cppb91770cba54fb841^b98c4fcca54fb841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp0000000000000000^3438"Analyze TextBasedStrategy/VisibleObject.cpp    cd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-generated-files.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-own-target-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-all-target-headers.hmap -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-project-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources/x86_64 -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources -F/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug --analyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp -o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/StaticAnalyzer/TextBasedStrategy/TextBasedStrategy/normal/x86_64/VisibleObject.plist36"87051689-3935-4EA9-B175-719344D21550-
+b566C2193-7741-4BAB-B65E-6C5F6AE5A0B6
+
+CAnalyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp
+s407873616.562925
+e407873617.639149
+r1
+xAnalyze
+x/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Analyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp34"Analyze TextBasedStrategy/main.cppcb2e9050a84fb841^dc9fa351a84fb841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp0000000000000000^3411"Analyze TextBasedStrategy/main.cpp    cd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-generated-files.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-own-target-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-all-target-headers.hmap -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-project-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources/x86_64 -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources -F/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug --analyze /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp -o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/StaticAnalyzer/TextBasedStrategy/TextBasedStrategy/normal/x86_64/main.plist36"EDEE4DB1-A999-4323-8B9D-9DCF72D6B1DD-
+b341BE118-83E7-4A9F-B1E1-995CB180049B
+
+CBuild AST from /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp
+r0
+
+CBuild AST from /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp
+r0
+
+CBuild AST from /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesba848f50a84fb841^5fee8f50a84fb841^---0#1#1#--18"Check dependencies36"A4E23E33-4D24-4236-8A75-EC6581BC0D35-
+
+CCompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s407873106.314382
+e407873106.761084
+r1
+xCompileC
+xBuild/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.o
+x/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.h
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp216"CompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.o TextBasedStrategy/MovingObject.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3e945052a64fb841^41d7c252a64fb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp0000000000000000^3226"CompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.o TextBasedStrategy/MovingObject.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-generated-files.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-own-target-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-all-target-headers.hmap -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-project-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources/x86_64 -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources -F/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug -MMD -MT dependencies -MF /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.d --serialize-diagnostics /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.dia -c /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.cpp -o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.o36"6D503DA1-CC9A-437D-93C2-33EF43E52A1B-
+bC8D04C58-B339-44DC-BC16-B46FB534CDEE
+
+CCompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s407873106.314373
+e407873106.795590
+r1
+xCompileC
+xBuild/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.o
+x/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.h
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/ansi_escape_sequences.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp218"CompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.o TextBasedStrategy/VisibleObject.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler10935052a64fb841^3faccb52a64fb841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp0000000000000000^3232"CompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.o TextBasedStrategy/VisibleObject.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-generated-files.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-own-target-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-all-target-headers.hmap -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-project-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources/x86_64 -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources -F/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug -MMD -MT dependencies -MF /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.d --serialize-diagnostics /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.dia -c /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.cpp -o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.o36"5829B8B6-EFBB-48A4-A0A2-8A2715222325-
+bC8D04C58-B339-44DC-BC16-B46FB534CDEE
+
+CCompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s407873616.562932
+e407873617.028926
+r1
+xCompileC
+xBuild/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.o
+x/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/ansi_escape_sequences.h
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/VisibleObject.h
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/MovingObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp200"CompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.o TextBasedStrategy/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerdc2e9050a84fb841^16680751a84fb841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp0000000000000000^3178"CompileC Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.o TextBasedStrategy/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-generated-files.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-own-target-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-all-target-headers.hmap -iquote /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/TextBasedStrategy-project-headers.hmap -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources/x86_64 -I/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/DerivedSources -F/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug -MMD -MT dependencies -MF /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.dia -c /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/TextBasedStrategy/main.cpp -o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.o36"66D3B3F7-2E83-42E9-AD63-53E3E71C8D0F-
+b341BE118-83E7-4A9F-B1E1-995CB180049B
+
+CLd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/TextBasedStrategy normal x86_64
+s407873617.647995
+e407873617.734206
+r1
+xLd
+x/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/TextBasedStrategy
+xnormal
+xx86_64
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/TextBasedStrategy.LinkFileList
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/main.o
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/MovingObject.o
+d/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/VisibleObject.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/TextBasedStrategy55"Ld Build/Products/Debug/TextBasedStrategy normal x86_645ff0a551a84fb841^62f5bb51a84fb841^---0#0#1#--1078"Ld Build/Products/Debug/TextBasedStrategy normal x86_64    cd /Users/mbillock1/TextBasedStrategy/TextBasedStrategy    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug -F/Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug -filelist /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/TextBasedStrategy.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Intermediates/TextBasedStrategy.build/Debug/TextBasedStrategy.build/Objects-normal/x86_64/TextBasedStrategy_dependency_info.dat -o /Users/mbillock1/TextBasedStrategy/TextBasedStrategy/Build/Products/Debug/TextBasedStrategy36"D603A255-1BDC-49F4-BC8A-F9E5D8FA9FDB-
+b341BE118-83E7-4A9F-B1E1-995CB180049B
+

@@ -15,7 +15,9 @@ class VisibleObject
 {
 public:
     VisibleObject(int x=0, int y=0);
-    void draw();
+    virtual void draw();
+    
+    virtual void move_to(int x, int y) { m_x = x; m_y = y;}
 protected:
     int m_x, m_y;
 };

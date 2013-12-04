@@ -10,6 +10,8 @@
 #include <vector>
 #include "ansi_escape_sequences.h"
 #include "VisibleObject.h"
+#include "MovingObject.h" 
+#include <unistd.h>
 
 int main(int argc, const char * argv[])
 {
@@ -24,12 +26,28 @@ int main(int argc, const char * argv[])
             renderable_objects.push_back(new VisibleObject(j, i));
         }
     }
-    for(std::vector<VisibleObject *>::const_iterator iter = renderable_objects.begin();
-        iter != renderable_objects.end();
-        ++iter)
+    renderable_objects.push_back(new MovingObject(1,1));
+    for(int i = 1; i <= 40; ++i)
     {
-        (*iter)->draw();
+        for(int j = 0; j < 100; ++j)
+        {
+            std::cout << std::endl;
+        }
+        renderable_objects[renderable_objects.size()-1]->move_to(i,i);
+        for(std::vector<VisibleObject *>::const_iterator iter = renderable_objects.begin();
+            iter != renderable_objects.end();
+            ++iter)
+        {
+            (*iter)->draw();
+        }
+        char c = '\0';
+        while(c != 'q')
+        {
+            std::cin >> c;
+        }
     }
+    std::cout << std::endl;
+    std::cout << std::endl;
     std::cout << std::endl;
     return 0;
 }

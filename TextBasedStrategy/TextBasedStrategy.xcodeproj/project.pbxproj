@@ -10,6 +10,7 @@
 		EE252A8D17A9B2B2007EAAA5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE252A8C17A9B2B2007EAAA5 /* main.cpp */; };
 		EE252A8F17A9B2B2007EAAA5 /* TextBasedStrategy.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = EE252A8E17A9B2B2007EAAA5 /* TextBasedStrategy.1 */; };
 		EE252A9617B05A17007EAAA5 /* VisibleObject.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE252A9417B05A17007EAAA5 /* VisibleObject.cpp */; };
+		EEC5BBD0184FA51D00B07CA9 /* MovingObject.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC5BBCE184FA51D00B07CA9 /* MovingObject.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +33,8 @@
 		EE252A9317AC2E4F007EAAA5 /* ansi_escape_sequences.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ansi_escape_sequences.h; sourceTree = "<group>"; };
 		EE252A9417B05A17007EAAA5 /* VisibleObject.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VisibleObject.cpp; sourceTree = "<group>"; };
 		EE252A9517B05A17007EAAA5 /* VisibleObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VisibleObject.h; sourceTree = "<group>"; };
+		EEC5BBCE184FA51D00B07CA9 /* MovingObject.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MovingObject.cpp; sourceTree = "<group>"; };
+		EEC5BBCF184FA51D00B07CA9 /* MovingObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovingObject.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +72,8 @@
 				EE252A9317AC2E4F007EAAA5 /* ansi_escape_sequences.h */,
 				EE252A9417B05A17007EAAA5 /* VisibleObject.cpp */,
 				EE252A9517B05A17007EAAA5 /* VisibleObject.h */,
+				EEC5BBCE184FA51D00B07CA9 /* MovingObject.cpp */,
+				EEC5BBCF184FA51D00B07CA9 /* MovingObject.h */,
 			);
 			path = TextBasedStrategy;
 			sourceTree = "<group>";
@@ -124,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE252A8D17A9B2B2007EAAA5 /* main.cpp in Sources */,
+				EEC5BBD0184FA51D00B07CA9 /* MovingObject.cpp in Sources */,
 				EE252A9617B05A17007EAAA5 /* VisibleObject.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
